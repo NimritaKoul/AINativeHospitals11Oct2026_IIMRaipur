@@ -1,0 +1,25 @@
+Goto to Zapier.com, Login/signup, Then
+
+1. Home>Automations>Forms>Create Form
+
+2. Prompt for Form Copilot:
+
+Create an  appointment book form to be used by the prospective patients of Dr. Anita Sharma, a renowned hepatologist in banglaore, india. the data filled by the prospective patient should include the fields - Patient name, phone number, chief complaint, preferred appointment date. Connect the form to a table so submissions save automatically for Dr. Sharma's review.
+An automated email should be sent to the doctor at nimrita.learning@gmail.com [Use your own email id here] with the details of the booking request every time a patient submits the appointment form.
+
+
+3. After Form is created by Form Copilot, 
+Ask it to take you To Zap Editor to configure email
+Let it work
+
+4. In the Zap editor, click on Configure Zap
+Then Test step
+
+5. Publish Zap
+
+6. Get Form URL to share with your patients
+Go to Home>Automations>Forms>Click on published url next to your form's name, opens form in browser. 
+Share the url with your patients.
+
+E.g: https://cmv25lv0w0012qkr29b88rv6z.zapier.app/
+
